@@ -244,7 +244,7 @@
 
         ![](Photos/image-11.png)
 
-    - Uruchamiamy Query Store (Prawym guzikiem na baze i properties)
+    - Uruchamiamy Query Store (Prawym guzikiem na baze i properties, ustawiamy go w taki sposób)
 
         ![](Photos/querystore.png)
 
