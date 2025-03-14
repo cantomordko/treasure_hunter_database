@@ -244,6 +244,10 @@
 
         ![](Photos/image-11.png)
 
+    - Uruchamiamy Query Store (Prawym guzikiem na baze i properties)
+
+        ![](Photos/querystore.png)
+
 ## 4. Przykładowe zapytania i procedury składowane
 
 1. Zapytania wykorzystujące dane JSON
