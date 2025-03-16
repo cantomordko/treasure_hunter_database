@@ -4,7 +4,7 @@
 
 **Temat:** Poszukiwacz skarbów
 
-**Autor:** Wiktor Piotrowski
+**Autor:** Wiktor Piotrowski nr 42207
 
 ---
 
